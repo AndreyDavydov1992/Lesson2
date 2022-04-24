@@ -1,0 +1,15 @@
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\bin\Debug\net6.0\TheFirstProgram.exe
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\bin\Debug\net6.0\TheFirstProgram.deps.json
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\bin\Debug\net6.0\TheFirstProgram.runtimeconfig.json
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\bin\Debug\net6.0\TheFirstProgram.dll
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\bin\Debug\net6.0\TheFirstProgram.pdb
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\obj\Debug\net6.0\TheFirstProgram.csproj.AssemblyReference.cache
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\obj\Debug\net6.0\TheFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\obj\Debug\net6.0\TheFirstProgram.AssemblyInfoInputs.cache
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\obj\Debug\net6.0\TheFirstProgram.AssemblyInfo.cs
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\obj\Debug\net6.0\TheFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\obj\Debug\net6.0\TheFirstProgram.dll
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\obj\Debug\net6.0\refint\TheFirstProgram.dll
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\obj\Debug\net6.0\TheFirstProgram.pdb
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\obj\Debug\net6.0\TheFirstProgram.genruntimeconfig.cache
+C:\Users\Андрей и Аниса\source\repos\TheFirstProgram\TheFirstProgram\obj\Debug\net6.0\ref\TheFirstProgram.dll
